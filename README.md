@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Test Heading for Akash
 
 This is just a test heading
+
+## Modifying file for staging area
+
+Modifying for staging area
