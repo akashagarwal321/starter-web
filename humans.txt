@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+		akash tester akash@gmail.com
 
 # THANKS
 
